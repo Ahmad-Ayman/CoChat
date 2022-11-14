@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>187781240635-00afaevps93dnurfie1jo6asnjvout9c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.187781240635-00afaevps93dnurfie1jo6asnjvout9c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>187781240635-jrooj12ff7ee70qefu9utmjeofstib7n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYoX9kyOHq3tKF3FoNdJbcj8LxzB_IKWA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>187781240635</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cochat</string>
+	<key>PROJECT_ID</key>
+	<string>cochat-1ffde</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cochat-1ffde.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:187781240635:ios:b6149f4fbaf7e2855e091e</string>
+</dict>
+</plist>

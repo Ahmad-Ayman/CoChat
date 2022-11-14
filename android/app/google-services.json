@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187781240635",
+    "project_id": "cochat-1ffde",
+    "storage_bucket": "cochat-1ffde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187781240635:android:e04094fb594da2415e091e",
+        "android_client_info": {
+          "package_name": "com.example.cochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187781240635-jrooj12ff7ee70qefu9utmjeofstib7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cochat",
+            "certificate_hash": "20ee9f284bb8ff046635219213d0a4cd3918827a"
+          }
+        },
+        {
+          "client_id": "187781240635-uj5ffg64rldlpoor9idcbtd41t6csqjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmKCr46AEpc-pZ3-q2U4pd3zHI8LVVpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187781240635-uj5ffg64rldlpoor9idcbtd41t6csqjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
